@@ -103,7 +103,6 @@
 }
 .header__address {
   display: flex;
-  flex-direction: auto;
   position: absolute;
   right: 80px;
   bottom: 40px;
